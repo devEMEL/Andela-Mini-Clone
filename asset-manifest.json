@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/github.io/Andela-Mini-Clone.git/static/js/main.55029a1f.chunk.js",
-    "main.js.map": "/github.io/Andela-Mini-Clone.git/static/js/main.55029a1f.chunk.js.map",
-    "runtime-main.js": "/github.io/Andela-Mini-Clone.git/static/js/runtime-main.514bc7a0.js",
-    "runtime-main.js.map": "/github.io/Andela-Mini-Clone.git/static/js/runtime-main.514bc7a0.js.map",
-    "static/js/2.005e99ae.chunk.js": "/github.io/Andela-Mini-Clone.git/static/js/2.005e99ae.chunk.js",
-    "static/js/2.005e99ae.chunk.js.map": "/github.io/Andela-Mini-Clone.git/static/js/2.005e99ae.chunk.js.map",
-    "index.html": "/github.io/Andela-Mini-Clone.git/index.html",
-    "precache-manifest.2ad72dff09f57d9fdd81ecfce52cadcf.js": "/github.io/Andela-Mini-Clone.git/precache-manifest.2ad72dff09f57d9fdd81ecfce52cadcf.js",
-    "service-worker.js": "/github.io/Andela-Mini-Clone.git/service-worker.js",
-    "static/js/2.005e99ae.chunk.js.LICENSE.txt": "/github.io/Andela-Mini-Clone.git/static/js/2.005e99ae.chunk.js.LICENSE.txt",
-    "static/media/ANDELA-21972-312_SOC_NonCPA.png": "/github.io/Andela-Mini-Clone.git/static/media/ANDELA-21972-312_SOC_NonCPA.9eaa691a.png",
-    "static/media/ANDELAimg1-1.png": "/github.io/Andela-Mini-Clone.git/static/media/ANDELAimg1-1.064a4cc7.png",
-    "static/media/ANEimg2.png": "/github.io/Andela-Mini-Clone.git/static/media/ANEimg2.14b0e7cc.png",
-    "static/media/Andela-img9.png": "/github.io/Andela-Mini-Clone.git/static/media/Andela-img9.b7eb4e00.png"
+    "main.js": "/Andela-Mini-Clone.git/static/js/main.55029a1f.chunk.js",
+    "main.js.map": "/Andela-Mini-Clone.git/static/js/main.55029a1f.chunk.js.map",
+    "runtime-main.js": "/Andela-Mini-Clone.git/static/js/runtime-main.ca9b5b34.js",
+    "runtime-main.js.map": "/Andela-Mini-Clone.git/static/js/runtime-main.ca9b5b34.js.map",
+    "static/js/2.005e99ae.chunk.js": "/Andela-Mini-Clone.git/static/js/2.005e99ae.chunk.js",
+    "static/js/2.005e99ae.chunk.js.map": "/Andela-Mini-Clone.git/static/js/2.005e99ae.chunk.js.map",
+    "index.html": "/Andela-Mini-Clone.git/index.html",
+    "precache-manifest.2e94fe2b03927d7a4a2d700bb1ac2de5.js": "/Andela-Mini-Clone.git/precache-manifest.2e94fe2b03927d7a4a2d700bb1ac2de5.js",
+    "service-worker.js": "/Andela-Mini-Clone.git/service-worker.js",
+    "static/js/2.005e99ae.chunk.js.LICENSE.txt": "/Andela-Mini-Clone.git/static/js/2.005e99ae.chunk.js.LICENSE.txt",
+    "static/media/ANDELA-21972-312_SOC_NonCPA.png": "/Andela-Mini-Clone.git/static/media/ANDELA-21972-312_SOC_NonCPA.9eaa691a.png",
+    "static/media/ANDELAimg1-1.png": "/Andela-Mini-Clone.git/static/media/ANDELAimg1-1.064a4cc7.png",
+    "static/media/ANEimg2.png": "/Andela-Mini-Clone.git/static/media/ANEimg2.14b0e7cc.png",
+    "static/media/Andela-img9.png": "/Andela-Mini-Clone.git/static/media/Andela-img9.b7eb4e00.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.514bc7a0.js",
+    "static/js/runtime-main.ca9b5b34.js",
     "static/js/2.005e99ae.chunk.js",
     "static/js/main.55029a1f.chunk.js"
   ]
